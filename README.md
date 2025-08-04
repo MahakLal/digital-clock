@@ -1,2 +1,2 @@
-# digital-clock
+# Digital clock
 https://mahaklal.github.io/digital-clock/
